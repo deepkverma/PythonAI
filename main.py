@@ -7,4 +7,3 @@ print(c)
 d = int(input("Please input value here "))
 e=c+d
 print(e)
-print(e)
