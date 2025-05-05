@@ -5,6 +5,6 @@ b=4
 c=a+b
 print(c)
 d = int(input("Please input value here "))
-e=d
-f=e+c
-print(f)
+e=c+d
+print(e)
+print(e)
