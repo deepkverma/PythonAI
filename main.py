@@ -7,3 +7,9 @@ print(c)
 d = int(input("Please input value here "))
 e=c+d
 print(e)
+
+#subtract two numbers
+a = 5
+b = 3
+c = a - b
+print("The difference is:", c)
